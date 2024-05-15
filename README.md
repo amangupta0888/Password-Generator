@@ -33,10 +33,15 @@ for the application for the next step, which is available in the Password-Servic
 The strength check is based on the following criteria:
 
 •	The password uses uppercase letters.
+
 •	The password uses lowercase letters.
+
 •	The password uses numbers.
+
 •	The password uses symbols.
+
 •	The length of the password is 8 or more (8 is often the minimum required length for a decent password).
+
 •	The length of the password is 16 or more (16 is considered to be the minimum length for a good password).
 
 
