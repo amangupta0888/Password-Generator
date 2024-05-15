@@ -18,7 +18,8 @@ for the application for the next step, which is available in the Password-Servic
 
 # Fuctionalities
 
-# 1. Generating a Password:•	The user answers with "Yes" or "No" to questions about using uppercase letters, lowercase letters, numbers, or symbols.
+# 1. Generating a Password:
+•	The user answers with "Yes" or "No" to questions about using uppercase letters, lowercase letters, numbers, or symbols.
 
 •	The user then enters the desired length of the password.
 
