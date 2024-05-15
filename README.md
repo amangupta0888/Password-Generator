@@ -15,3 +15,7 @@ While working on it, I decided to include a password strength checker feature th
 of the entered password. I was pretty happy with how it turned out, but I realized that it was not very 
 straightforward to use for someone who does not know how it is supposed to work. So, I decided to create a GUI 
 for the application for the next step, which is available in the Password-Services repository.
+
+# Fuctionalities
+
+#1. Generating a Password:
